@@ -1,0 +1,6 @@
+{
+  "name": "Трафик под Ключ",
+  "description": "Высококонверсионный лендинг по привлечению клиентов по договору с гарантией результата",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
